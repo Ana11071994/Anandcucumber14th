@@ -8,6 +8,7 @@ public class Students {
 	}
 	private void studentsName() {
 		System.out.println("student name is arun");
+		System.out.println("Chennai");
 
 	}
 	public static void main(String[] args) {
